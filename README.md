@@ -6,9 +6,6 @@
 3. Add `ensure newinteriors` to your `server.cfg` file
 4. Restart your server 
 
-## Dependency
-
-- [lockpick](https://github.com/VoidZero69/lockpick)
 
 
 
